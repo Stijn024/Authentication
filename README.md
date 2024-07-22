@@ -19,3 +19,8 @@
 The repository is structured with separate commits for each exercise in the Eloquent - Being relatable module. This allows you to review each stage of the module independently, making it easier to provide targeted feedback.
 Please refer to the specific commits to see the progress and implementation details for each of the four exercises.
 
+### Authentication → 1.Getting started → 1.Scaffolding is a start
+
+- Copy project from last exercise
+- First install laravel Breeze: `composer require laravel/breeze` then: `php artisan breeze:install` .
+*Created a backup of the blade components & de routes from web.php*
